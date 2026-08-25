@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1786937122439,
+      "tag": "0000_clear_warlock",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1786937692745,
+      "tag": "0001_grey_silver_samurai",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1786958205429,
+      "tag": "0002_dazzling_energizer",
+      "breakpoints": true
+    }
+  ]
+}
